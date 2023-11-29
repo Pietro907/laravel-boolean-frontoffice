@@ -95,7 +95,7 @@ export default {
 
                                     <div class="py-2" v-if="cocktail.alcoholic == 1">Alcolico</div>
 
-                                    <div class="d-none over_block">
+                                    <div class="over_block">
 
                                         <h5>INGREDIENTI:</h5>
 
@@ -172,7 +172,7 @@ img:hover {
 
 .home_image {
 
-    background-image: url(https://images.squarespace-cdn.com/content/v1/53162615e4b08f2413caa7c2/1433114543363-JZNJMLXI1Q29P6X9TQJ4/hemingway-bar-prague);
+    background: black;
     background-size: cover;
 }
 
